@@ -1,2 +1,2 @@
 # Datascience
-Repositorio entregas curso de instroducción a Data Science
+Repositorio entregas curso de introducción a Data Science
